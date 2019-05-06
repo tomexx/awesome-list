@@ -9,7 +9,12 @@ The list of awesome creative tools.
 - [Appleseed](https://github.com/appleseedhq/appleseed)
 - [Blenderseed](https://github.com/appleseedhq/blenderseed)
 
+## Audio
+- [MP3TAG](https://www.mp3tag.de/en/)
+
 ## Video
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [OBS Studio](https://obsproject.com)
 - [VapourSynth](http://www.vapoursynth.com/)
+
+
