@@ -10,4 +10,5 @@ The list of awesome creative tools which are either free of charge or have very 
 - [Blenderseed](https://github.com/appleseedhq/blenderseed)
 
 ## Video
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [OBS Studio](https://obsproject.com)
