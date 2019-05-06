@@ -1,5 +1,5 @@
 # Awesome list
-The list of awesome creative tools which are either free of charge or have very good price/value ratio.
+The list of awesome creative tools.
 
 ## 2d Graphics
 - [Google Web Designer](https://www.google.com/webdesigner/)
@@ -12,3 +12,4 @@ The list of awesome creative tools which are either free of charge or have very 
 ## Video
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [OBS Studio](https://obsproject.com)
+- [VapourSynth](http://www.vapoursynth.com/)
