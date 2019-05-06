@@ -1,10 +1,11 @@
 # Awesome list
-The list of awesome creative tools.
+The list of awesome creative tools which are either free of charge or have very good price/value ratio.
 
-## Graphics
+## 2d Graphics
 - [Lunacy](https://icons8.com/lunacy)
 
-## 3d renderers
+## 3d Renderers
+- [Appleseed](https://github.com/appleseedhq/appleseed)
 - [Blenderseed](https://github.com/appleseedhq/blenderseed)
 
 ## Video
