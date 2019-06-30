@@ -2,7 +2,7 @@
 The list of awesome tools, apps, resources, sites, books, links etc. I like 💖. It's kind of a my personal start point.
 
 # Other Awesome lists
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) The most awesome of all the other awesome lists
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) The most awesome IT awesome list
 
 # 2d Graphics
 - [Google Web Designer](https://www.google.com/webdesigner/)
@@ -29,3 +29,7 @@ The list of awesome tools, apps, resources, sites, books, links etc. I like 💖
 # Password Managers
 - [Avast Passwords](https://www.avast.com/passwords) The Free Speech Web Browser
 - [Firefox Lockwise](https://lockwise.firefox.com)
+
+# Web Utilities
+- [y2mate](http://y2mate.com) Download audio/video from YouTube
+
