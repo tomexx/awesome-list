@@ -53,6 +53,7 @@ The list of awesome tools, apps, resources, sites, books, links etc. I like & us
 
 # Utilities
 
-## Web
-- [y2mate](http://y2mate.com) Download audio/video from YouTube
+## Downloads
+- [y2mate](http://y2mate.com) - download audio/video from YouTube
+- [JDownloader 2](https://jdownloader.org/jdownloader2) - download audio/video from YouTube and other sources
 
